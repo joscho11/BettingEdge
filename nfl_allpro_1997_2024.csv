@@ -30,6 +30,7 @@ QB,Brett Favre,GNB,1997,offense
 LILB,Levon Kirkland,PIT,1997,defense
 C,Dermontti Dawson,PIT,1997,offense
 RB,Terrell Davis,DEN,1997,offense
+RCB/SS,Carnell Lake,PIT,1997,defense
 SS,LeRoy Butler,GNB,1997,defense
 LT,Tony Boselli,JAX,1997,offense
 RLB,John Mobley,DEN,1997,defense
@@ -78,6 +79,8 @@ OLB,Dwayne Rudd,MIN,1998,defense
 MLB,Ray Lewis,BAL,1998,defense
 MLB,Zach Thomas,MIA,1998,defense
 CB,Sam Madison,MIA,1998,defense
+S,Robert Griffith,MIN,1998,defense
+S,Darren Woodson,DAL,1998,defense
 RB,Jamal Anderson,ATL,1998,offense
 LDE,Reggie White,GNB,1998,defense
 TE,Shannon Sharpe,DEN,1998,offense
@@ -137,6 +140,7 @@ DE,Simeon Rice,ARI,1999,defense
 DT,Bryant Young,SFO,1999,defense
 MLB,Zach Thomas,MIA,1999,defense
 MLB,Junior Seau,SDG,1999,defense
+S,Robert Griffith,MIN,1999,defense
 SS,John Lynch,TAM,1999,defense
 RB,Edgerrin James,IND,1999,offense
 LDE,Jevon Kearse,TEN,1999,defense
@@ -200,6 +204,7 @@ MLB,Randall Godfrey,TEN,2000,defense
 MLB,Stephen Boyd,DET,2000,defense
 MLB,Sam Cowart,BUF,2000,defense
 CB,Charles Woodson,OAK,2000,defense
+S,Blaine Bishop,TEN,2000,defense
 RDE,Jason Taylor,MIA,2000,defense
 RCB,Sam Madison,MIA,2000,defense
 WR,Derrick Mason,TEN,2000,offense
@@ -264,6 +269,8 @@ ILB,Zach Thomas,MIA,2001,defense
 ILB,Jeremiah Trotter,PHI,2001,defense
 CB,Ronde Barber,TAM,2001,defense
 CB,Charles Woodson,OAK,2001,defense
+S,Mike Brown,CHI,2001,defense
+S,Sammy Knight,NOR,2001,defense
 C,Kevin Mawae,NYJ,2001,offense
 LLB,Jamir Miller,CLE,2001,defense
 RDE,John Abraham,NYJ,2001,defense
@@ -328,6 +335,7 @@ OLB,Julian Peterson,SFO,2002,defense
 ILB,Donnie Edwards,SDG,2002,defense
 ILB,Keith Brooking,ATL,2002,defense
 CB,Ronde Barber,TAM,2002,defense
+S,John Lynch,TAM,2002,defense
 RB,Ricky Williams,MIA,2002,offense
 MLB,Brian Urlacher,CHI,2002,defense
 RDE,Jason Taylor,MIA,2002,defense
@@ -452,6 +460,7 @@ ILB,Ray Lewis,BAL,2004,defense
 ILB,Tedy Bruschi,NWE,2004,defense
 ILB,Donnie Edwards,SDG,2004,defense
 CB,Ronde Barber,TAM,2004,defense
+S,Rodney Harrison,NWE,2004,defense
 RB,Curtis Martin,NYJ,2004,offense
 WR,Terrell Owens,PHI,2004,offense
 LDE,Julius Peppers,CAR,2004,defense
@@ -613,6 +622,10 @@ CB,Lito Sheppard,PHI,2006,defense
 CB,Al Harris,GNB,2006,defense
 CB,Ronde Barber,TAM,2006,defense
 CB,Nnamdi Asomugha,OAK,2006,defense
+S,Ed Reed,BAL,2006,defense
+S,Adrian Wilson,ARI,2006,defense
+S,Brian Dawkins,PHI,2006,defense
+S,Kerry Rhodes,NYJ,2006,defense
 QB,Tom Brady,NWE,2007,offense
 QB,Brett Favre,GNB,2007,offense
 RB,LaDainian Tomlinson,SDG,2007,offense
@@ -666,6 +679,12 @@ CB,Antonio Cromartie,SDG,2007,defense
 CB,Marcus Trufant,SEA,2007,defense
 CB,Al Harris,GNB,2007,defense
 CB,Champ Bailey,DEN,2007,defense
+S,Bob Sanders,IND,2007,defense
+S,Ed Reed,BAL,2007,defense
+S,Darren Sharper,MIN,2007,defense
+S,Jermaine Phillips,TAM,2007,defense
+S,Troy Polamalu,PIT,2007,defense
+S,Sean Taylor,WAS,2007,defense
 RLB,Keith Bulluck,TEN,2007,defense
 C,Kevin Mawae,TEN,2007,offense
 LDE,Ty Warren,NWE,2007,defense
@@ -726,6 +745,11 @@ CB,Nnamdi Asomugha,OAK,2008,defense
 CB,Cortland Finnegan,TEN,2008,defense
 CB,Charles Woodson,GNB,2008,defense
 CB,Antoine Winfield,MIN,2008,defense
+S,Ed Reed,BAL,2008,defense
+S,Troy Polamalu,PIT,2008,defense
+S,Adrian Wilson,ARI,2008,defense
+S,Nick Collins,GNB,2008,defense
+S,Quintin Mikell,PHI,2008,defense
 RB,Reggie Bush,NOR,2008,offense
 QB,Peyton Manning,IND,2009,offense
 QB,Drew Brees,NOR,2009,offense
@@ -801,6 +825,12 @@ CB,Leon Hall,CIN,2009,defense
 CB,Dominique Rodgers-Cromartie,ARI,2009,defense
 SS,George Wilson,BUF,2009,defense
 SS,Reed Doughty,WAS,2009,defense
+S,Darren Sharper,NOR,2009,defense
+S,Adrian Wilson,ARI,2009,defense
+S,Brian Dawkins,DEN,2009,defense
+S,Ed Reed,BAL,2009,defense
+S,Jairus Byrd,BUF,2009,defense
+S,Nick Collins,GNB,2009,defense
 WR,Patrick Crayton,DAL,2009,offense
 WR,Brandon Marshall,DEN,2009,offense
 C,Jeff Saturday,IND,2009,offense
@@ -882,6 +912,17 @@ CB,Brandon Flowers,KAN,2010,defense
 CB,Tramon Williams,GNB,2010,defense
 CB,Charles Woodson,GNB,2010,defense
 CB,Antoine Winfield,MIN,2010,defense
+S,Troy Polamalu,PIT,2010,defense
+S,Ed Reed,BAL,2010,defense
+S,Michael Huff,OAK,2010,defense
+S,Quintin Mikell,PHI,2010,defense
+S,Nick Collins,GNB,2010,defense
+S,Antrel Rolle,NYG,2010,defense
+S,Eric Weddle,SDG,2010,defense
+S,Michael Griffin,TEN,2010,defense
+S,Chris Harris,CHI,2010,defense
+S,Malcolm Jenkins,NOR,2010,defense
+S,Darren Sharper,NOR,2010,defense
 QB,Aaron Rodgers,GNB,2011,offense
 QB,Tom Brady,NWE,2011,offense
 QB,Drew Brees,NOR,2011,offense
@@ -964,6 +1005,11 @@ CB,Lardarius Webb,BAL,2011,defense
 CB,Chris Gamble,CAR,2011,defense
 SS,Adrian Wilson,ARI,2011,defense
 FS,Jairus Byrd,BUF,2011,defense
+S,Troy Polamalu,PIT,2011,defense
+S,Eric Weddle,SDG,2011,defense
+S,Earl Thomas,SEA,2011,defense
+S,Ed Reed,BAL,2011,defense
+S,Dashon Goldson,SFO,2011,defense
 QB,Peyton Manning,DEN,2012,offense
 QB,Tom Brady,NWE,2012,offense
 QB,Aaron Rodgers,GNB,2012,offense
@@ -1036,6 +1082,10 @@ CB,Tim Jennings,CHI,2012,defense
 CB,Antoine Winfield,MIN,2012,defense
 SS,Reshad Jones,MIA,2012,defense
 FS,Devin McCourty,NWE,2012,defense
+S,Earl Thomas,SEA,2012,defense
+S,Jairus Byrd,BUF,2012,defense
+S,Eric Weddle,SDG,2012,defense
+S,Dashon Goldson,SFO,2012,defense
 QB,Peyton Manning,DEN,2013,offense
 QB,Drew Brees,NOR,2013,offense
 QB,Philip Rivers,SDG,2013,offense
@@ -1111,6 +1161,15 @@ CB,Darrelle Revis,TAM,2013,defense
 CB,Chris Harris Jr.,DEN,2013,defense
 CB,Aqib Talib,NWE,2013,defense
 CB,Alterraun Verner,TEN,2013,defense
+S,Eric Berry,KAN,2013,defense
+S,Earl Thomas,SEA,2013,defense
+S,Devin McCourty,NWE,2013,defense
+S,Donte Whitner,SFO,2013,defense
+S,Eric Weddle,SDG,2013,defense
+S,T.J. Ward,CLE,2013,defense
+S,Antrel Rolle,NYG,2013,defense
+S,Kam Chancellor,SEA,2013,defense
+S,Jairus Byrd,BUF,2013,defense
 QB,Aaron Rodgers,GNB,2014,offense
 QB,Tom Brady,NWE,2014,offense
 QB,Tony Romo,DAL,2014,offense
@@ -1182,6 +1241,12 @@ CB,Desmond Trufant,ATL,2014,defense
 CB,Brent Grimes,MIA,2014,defense
 CB,Orlando Scandrick,DAL,2014,defense
 CB,Sean Smith,KAN,2014,defense
+S,Eric Weddle,SDG,2014,defense
+S,Earl Thomas,SEA,2014,defense
+S,Harrison Smith,MIN,2014,defense
+S,Glover Quin,DET,2014,defense
+S,Devin McCourty,NWE,2014,defense
+S,Kam Chancellor,SEA,2014,defense
 QB,Cam Newton,CAR,2015,offense
 QB,Carson Palmer,ARI,2015,offense
 QB,Tom Brady,NWE,2015,offense
@@ -1253,6 +1318,13 @@ CB,Richard Sherman,SEA,2015,defense
 CB,Chris Harris Jr.,DEN,2015,defense
 CB,Marcus Peters,KAN,2015,defense
 CB,Johnathan Joseph,HOU,2015,defense
+S,Tyrann Mathieu,ARI,2015,defense
+S,Eric Berry,KAN,2015,defense
+S,Earl Thomas,SEA,2015,defense
+S,Harrison Smith,MIN,2015,defense
+S,Malcolm Jenkins,PHI,2015,defense
+S,Reggie Nelson,CIN,2015,defense
+S,Charles Woodson,OAK,2015,defense
 QB,Matt Ryan,ATL,2016,offense
 QB,Tom Brady,NWE,2016,offense
 RB,Ezekiel Elliott,DAL,2016,offense
@@ -1321,6 +1393,12 @@ CB,Patrick Peterson,ARI,2016,defense
 CB,Casey Hayward,SDG,2016,defense
 DB,Chris Harris Jr.,DEN,2016,defense
 DB,Dominique Rodgers-Cromartie,NYG,2016,defense
+S,Landon Collins,NYG,2016,defense
+S,Eric Berry,KAN,2016,defense
+S,Eric Weddle,BAL,2016,defense
+S,Devin McCourty,NWE,2016,defense
+S,Ha Ha Clinton-Dix,GNB,2016,defense
+S,Kam Chancellor,SEA,2016,defense
 EDGE,Cameron Jordan,NOR,2016,defense
 EDGE,Cameron Wake,MIA,2016,defense
 EDGE,Olivier Vernon,NYG,2016,defense
@@ -1393,6 +1471,14 @@ CB,A.J. Bouye,JAX,2017,defense
 CB,Marshon Lattimore,NOR,2017,defense
 CB,Tre'Davious White,BUF,2017,defense
 DB,Patrick Robinson,PHI,2017,defense
+S,Harrison Smith,MIN,2017,defense
+S,Kevin Byard,TEN,2017,defense
+S,Earl Thomas,SEA,2017,defense
+S,Adrian Amos,CHI,2017,defense
+S,Eric Weddle,BAL,2017,defense
+S,Glover Quin,DET,2017,defense
+S,Micah Hyde,BUF,2017,defense
+S,Lamarcus Joyner,LAR,2017,defense
 QB,Patrick Mahomes,KAN,2018,offense
 QB,Drew Brees,NOR,2018,offense
 RB,Todd Gurley,LAR,2018,offense
@@ -1453,6 +1539,11 @@ CB,Patrick Peterson,ARI,2018,defense
 CB,Xavien Howard,MIA,2018,defense
 DB,Desmond King,LAC,2018,defense
 DB,Kareem Jackson,HOU,2018,defense
+S,Eddie Jackson,CHI,2018,defense
+S,Derwin James,LAC,2018,defense
+S,Jamal Adams,NYJ,2018,defense
+S,Harrison Smith,MIN,2018,defense
+S,Kevin Byard,TEN,2018,defense
 QB,Lamar Jackson,BAL,2019,offense
 QB,Russell Wilson,SEA,2019,offense
 RB,Christian McCaffrey,CAR,2019,offense
@@ -1514,6 +1605,11 @@ CB,Casey Hayward,LAC,2019,defense
 DB,Tyrann Mathieu,KAN,2019,defense
 DB,Marlon Humphrey,BAL,2019,defense
 DB,Marcus Williams,NOR,2019,defense
+S,Jamal Adams,NYJ,2019,defense
+S,Minkah Fitzpatrick,2TM,2019,defense
+S,Anthony Harris,MIN,2019,defense
+S,Justin Simmons,DEN,2019,defense
+S,Harrison Smith,MIN,2019,defense
 QB,Aaron Rodgers,GNB,2020,offense
 QB,Patrick Mahomes,KAN,2020,offense
 QB,Josh Allen,BUF,2020,offense
@@ -1580,6 +1676,14 @@ CB,Tre'Davious White,BUF,2020,defense
 CB,James Bradberry,NYG,2020,defense
 DB,Bryce Callahan,DEN,2020,defense
 DB,Darious Williams,LAR,2020,defense
+S,Tyrann Mathieu,KAN,2020,defense
+S,Minkah Fitzpatrick,PIT,2020,defense
+S,Budda Baker,ARI,2020,defense
+S,Jessie Bates III,CIN,2020,defense
+S,Adrian Amos,GNB,2020,defense
+S,Jamal Adams,SEA,2020,defense
+S,Justin Simmons,DEN,2020,defense
+S,John Johnson,LAR,2020,defense
 QB,Aaron Rodgers,GNB,2021,offense
 QB,Tom Brady,TAM,2021,offense
 QB,Joe Burrow,CIN,2021,offense
@@ -1639,6 +1743,15 @@ CB,J.C. Jackson,NWE,2021,defense
 CB,Xavien Howard,MIA,2021,defense
 CB,Chidobe Awuzie,CIN,2021,defense
 CB,Darius Slay,PHI,2021,defense
+S,Kevin Byard,TEN,2021,defense
+S,Jordan Poyer,BUF,2021,defense
+S,Derwin James,LAC,2021,defense
+S,Antoine Winfield Jr.,TAM,2021,defense
+S,Budda Baker,ARI,2021,defense
+S,Quandre Diggs,SEA,2021,defense
+S,Micah Hyde,BUF,2021,defense
+S,Marcus Williams,NOR,2021,defense
+S,Justin Simmons,DEN,2021,defense
 FLEX-O,Cordarrelle Patterson,ATL,2021,offense
 FLEX-D,Jevon Holland,MIA,2021,defense
 QB,Patrick Mahomes,KAN,2022,offense
@@ -1703,6 +1816,14 @@ CB,Jaire Alexander,GNB,2022,defense
 CB,James Bradberry,PHI,2022,defense
 CB,Patrick Peterson,MIN,2022,defense
 DB,Jalen Ramsey,LAR,2022,defense
+S,Minkah Fitzpatrick,PIT,2022,defense
+S,Derwin James,LAC,2022,defense
+S,Talanoa Hufanga,SFO,2022,defense
+S,Ryan Neal,SEA,2022,defense
+S,C.J. Gardner-Johnson,PHI,2022,defense
+S,Justin Simmons,DEN,2022,defense
+S,Tyrann Mathieu,NOR,2022,defense
+S,Kamren Curl,WAS,2022,defense
 QB,Lamar Jackson,BAL,2023,offense
 QB,Dak Prescott,DAL,2023,offense
 QB,Josh Allen,BUF,2023,offense
@@ -1774,6 +1895,11 @@ CB,Devon Witherspoon,SEA,2023,defense
 CB,Kendall Fuller,WAS,2023,defense
 CB,Charvarius Ward,SFO,2023,defense
 CB,Taron Johnson,BUF,2023,defense
+S,Jessie Bates III,ATL,2023,defense
+S,Kyle Hamilton,BAL,2023,defense
+S,Antoine Winfield Jr.,TAM,2023,defense
+S,Jevon Holland,MIA,2023,defense
+S,Justin Simmons,DEN,2023,defense
 QB,Lamar Jackson,BAL,2024,offense
 QB,Jared Goff,DET,2024,offense
 QB,Josh Allen,BUF,2024,offense
@@ -1840,3 +1966,10 @@ CB,Garrett Williams,ARI,2024,defense
 CB,Christian Gonzalez,NWE,2024,defense
 CB,Christian Benford,BUF,2024,defense
 DB,Cooper DeJean,PHI,2024,defense
+S,Xavier McKinney,GNB,2024,defense
+S,Kyle Hamilton,BAL,2024,defense
+S,Kerby Joseph,DET,2024,defense
+S,Brian Branch,DET,2024,defense
+S,Derwin James,LAC,2024,defense
+S,Brandon Jones,DEN,2024,defense
+S,Budda Baker,ARI,2024,defense
